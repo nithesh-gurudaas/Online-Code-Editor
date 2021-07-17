@@ -17,5 +17,5 @@
 
 ## Basic explanation:
 * A webpage that functions as a webpage editor similar to [codepen.io](https://codepen.io/), with each editor as a tab rather than all three appearing at the same time. [Code mirror API](https://codemirror.net/) was used for implementing the editor area, and the changes are reflected in the preview pane. The preview pane uses the port 5000, whereas the editing is done on the webpage that uses port 3000, and information is dynamically updated from both. Port 5000 acts as a server, while 3000 would act as the client.
-![alt text](https://github.com/nithesh-gurudaas/Online-Code-Editor/blob/main/Screenshot (252).png?raw=true)
-![alt text](https://github.com/nithesh-gurudaas/Online-Code-Editor/blob/main/Screenshot (253).png?raw=true)
+![alt text](https://github.com/nithesh-gurudaas/Online-Code-Editor/blob/main/Screenshot%20(252).png?raw=true)
+![alt text](https://github.com/nithesh-gurudaas/Online-Code-Editor/blob/main/Screenshot%20(253).png?raw=true)
